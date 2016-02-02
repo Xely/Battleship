@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1454237860 source:d:\documents\google drive\cours- imie\languagec\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1454268184 source:d:\documents\cours\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1454319959 source:d:\documents\google drive\battleship-version 1 finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
